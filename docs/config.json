@@ -2,12 +2,60 @@
   "config": [
     {
       "type": "link",
+      "slug": "deployment/complement-1",
+      "title": "Test",
+      "children": [
+        {
+          "type": "group",
+          "slug": "features",
+          "title": "test2",
+          "children": [],
+          "id": "wn8j2etcr"
+        }
+      ],
+      "id": "8psp94835"
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Tina Alpaca",
       "position": 0,
       "id": "1",
       "children": []
+    },
+    {
+      "type": "link",
+      "key": "deployment",
+      "slug": "deployment",
+      "title": "Deployment",
+      "position": 1,
+      "id": "15",
+      "children": [
+        {
+          "key": "./deployment/basics.md",
+          "slug": "deployment/basics",
+          "type": "link",
+          "title": "Basics",
+          "id": "16"
+        },
+        {
+          "type": "group",
+          "key": "Complement",
+          "title": "Complement",
+          "position": null,
+          "id": "17",
+          "children": [
+            {
+              "key": "./deployment/complement-1.md",
+              "slug": "deployment/complement-1",
+              "type": "link",
+              "title": "Subpage",
+              "id": "18"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "link",
@@ -68,39 +116,6 @@
           "title": "Node",
           "id": "14",
           "children": []
-        }
-      ]
-    },
-    {
-      "type": "link",
-      "key": "deployment",
-      "slug": "deployment",
-      "title": "Deployment",
-      "position": 1,
-      "id": "15",
-      "children": [
-        {
-          "key": "./deployment/basics.md",
-          "slug": "deployment/basics",
-          "type": "link",
-          "title": "Basics",
-          "id": "16"
-        },
-        {
-          "type": "group",
-          "key": "Complement",
-          "title": "Complement",
-          "position": null,
-          "id": "17",
-          "children": [
-            {
-              "key": "./deployment/complement-1.md",
-              "slug": "deployment/complement-1",
-              "type": "link",
-              "title": "Subpage",
-              "id": "18"
-            }
-          ]
         }
       ]
     }
