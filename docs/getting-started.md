@@ -2,9 +2,9 @@
 date: '2019-07-10T07:00:00.000Z'
 title: Tina Alpaca Starter
 position: 0
-last_edited: '2021-01-31T21:11:36.326Z'
+last_edited: '2021-02-19T09:32:52.370Z'
 ---
-Tina Alpaca is a Next.js customizable documentation starter hosted on Vercel.
+Tina Alpaca is a Next.js **customizable** [documentation ](https://google.com)starter hosted on Vercel.
 
 Visit the [public website](https://tina-starter-alpaca.now.sh/ "https://tina-starter-alpaca.now.sh/") to see it in action. You can edit content from the website by clicking on the pencil button at the bottom of the page. Visit [tina.io](https://tina.io) for a real production site example.
 
